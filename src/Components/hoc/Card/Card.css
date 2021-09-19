@@ -1,0 +1,16 @@
+.Card {
+  width: 30vw;
+  height: 65vh;
+  background: #ffffff;
+  border-radius: 24px;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-top: 68px;
+  padding-bottom: 32px;
+}
+
+@media (max-width: 768px) {
+  .Card {
+    width: 75vw;
+  }
+}

@@ -1,0 +1,42 @@
+img.result {
+  height: 128px;
+  width: 238px;
+}
+.alignCenter {
+  text-align: center;
+}
+
+.congratMessage {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #1d355d;
+  margin-top: 10px;
+}
+
+.congratHeader {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  color: #1d355d;
+  margin-top: 30px;
+}
+
+.retry {
+  width: 150px;
+  height: 50px;
+  margin-top: 30px;
+  border: 2px solid #1d355d;
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+
+span.score {
+  color: green;
+  font-weight: 700;
+  font-size: 45px;
+}

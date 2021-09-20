@@ -5,16 +5,34 @@ A fun quiz app for answering questions on countries built with React!🤗
 ## Acknowledgements
 
  - [Deploy React Apps to Netlify](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)
- 
-  
-## Installation
 
-Install my-project with npm
+
+## Run Locally
+
+Clone the project
 
 ```bash
-  npm install my-project
+  git clone https://github.com/OlayinkaAtobiloye/countryquiz.git
+```
+
+Go to the project directory
+
+```bash
   cd my-project
 ```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
     
 ## License
 
@@ -61,4 +79,8 @@ Connect with me on Social Media!
 - [Twitter](https://twitter.com/symplyciel)
 - [Medium](https://medium.com/@hiqmatolayinka)
 
+  
+## Thank you
+
+Thank you for checking out countryQuiz app. If you like the project, leave a Star!
   

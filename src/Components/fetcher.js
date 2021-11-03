@@ -31,7 +31,7 @@ class Fetcher extends Component {
 
   componentDidMount() {
     axios
-      .get("https://restcountries.eu/rest/v2/all?fields=name;capital;flag")
+      .get("https://restcountries.com/v2/all?fields=name,capital,flag")
       .then((response) => {
         let availableTypes = ["flag", "capital"];
         let responseLength = response.data.length;

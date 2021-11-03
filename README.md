@@ -5,6 +5,7 @@ A fun quiz app for answering questions on countries built with React!🤗
 ## Acknowledgements
 
  - [Deploy React Apps to Netlify](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)
+ - [Attaching Files](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/attaching-files)
 
 
 ## Run Locally
@@ -18,7 +19,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd countryquiz
 ```
 
 Install dependencies
@@ -41,9 +42,14 @@ Start the server
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-  
+![App Screenshot](https://user-images.githubusercontent.com/69689414/133993247-88f18e05-9d3c-4952-814a-8c94d95934fd.JPG)
+
+![Question Screen](https://user-images.githubusercontent.com/69689414/133993429-99ec7934-0dd4-473d-bb8c-931c49c72556.JPG)
+
+![Result Screen](https://user-images.githubusercontent.com/69689414/133993306-b15188b6-f584-4ae0-ad49-65720b47522d.JPG)
+
+
 ## Contributing
 
 Contributions are always welcome!
@@ -54,7 +60,18 @@ Fork the project, make your changes, and submit a pull request!
   
 ## Demo
 
-Insert gif or link to demo
+Live Site - https://countryquizapp.netlify.app/
+
+
+
+The site in action-
+
+https://user-images.githubusercontent.com/69689414/133993711-3f1e79c2-c757-46ee-a4da-467e037694ee.mp4
+
+
+
+<!-- https://user-images.githubusercontent.com/69689414/133993775-5c8bdcad-e8d6-437d-a66f-730f0960c2e9.mp4 -->
+
 
   
 ## User Stories

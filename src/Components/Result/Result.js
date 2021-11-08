@@ -5,6 +5,7 @@ import Container from "../hoc/Container/Container";
 import Card from "../hoc/Card/Card";
 import result from "../../Images/result.svg";
 import Fetcher from "../fetcher";
+import Question from "../Question/Question";
 
 const Result = (props) => {
   const [tryAgain, settryAgain] = useState(false);
@@ -30,7 +31,7 @@ const Result = (props) => {
       </Container>
     </Wrapper>
   ) : (
-    <Fetcher currentScore={0} />
+    <Question />
   );
 };
 

@@ -1,9 +1,9 @@
-import Fetcher from "./Components/fetcher";
+import Question from "./Components/Question/Question";
 
 function App() {
   return (
     <div className="App">
-      <Fetcher currentScore={0} />
+      <Question />
     </div>
   );
 }
